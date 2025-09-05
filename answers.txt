@@ -1,0 +1,20 @@
+¿Cuál es el punto más debil de gpg?
+El punto más debil es la contraseña, ya que es la principal defensa en contra del acceso no deseado a los datos
+guardados.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+En entornos profesionales para mantener la seguridad de la información y las comunicaciones.
+
+¿En que consiste el ciclo de vida del desarrollo de software seguro?
+- Planeamiento
+	Se plantea en general de que se tratará el proyecto y como se abordará el problema. Se abordan las
+	consideraciones de seguridad
+- Diseño
+	Se plantea el diseño del sistema, considerando el modelado de las amenazas.
+- Desarrollo
+	Se realiza toda la codificación y se verifica el código.
+- Testing
+	Se hacen los test pertinentes del sistema y se integran.
+- Despliegue
+	Se realiza el despliegue de la aplicación.
+
